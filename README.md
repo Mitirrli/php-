@@ -5,6 +5,7 @@
 
 [使用phinx管理数据库](https://github.com/Mitirrli/php_report/blob/master/php/%E4%BD%BF%E7%94%A8phinx%E7%AE%A1%E7%90%86%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 
-
+[MAMP编译安装拓展](https://github.com/Mitirrli/php_report/blob/master/php/MAMP%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95.md)
 ## git
 [git基本操作](https://github.com/Mitirrli/php_report/blob/master/git/git%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
+
